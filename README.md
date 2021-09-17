@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Made a clone of Facebook's Home Page using React
+
+The following image is the representation of how the application would look like when deployed.
+
+![image](https://user-images.githubusercontent.com/66151755/133850962-a7806b78-2a37-4802-b6a7-25664ff2af32.png)
+
 
 ## Available Scripts
 
